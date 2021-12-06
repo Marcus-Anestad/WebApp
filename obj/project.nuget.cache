@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fiexktvg/Dbr6vWID98t3THssP0CC4gaWFxyHclT2X94Sl65M3/zAuEiEITGE1Tj44gH0HXj6gs+laUot5FZpQ==",
+  "dgSpecHash": "zt8wX7X9iarpbbBD3k/qT2En+my5ICLplBv3APiV/do0TUZGOOSzE7c0nNW1Zd4/wTuoLLo6Tt5ATxR/oXozxQ==",
   "success": true,
-  "projectFilePath": "/Users/anestadm/Documents/GitHub/WebApp/MyWebApp/MyWebApp.csproj",
+  "projectFilePath": "/Users/anestadm/Documents/GitHub/WebApp/WebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
